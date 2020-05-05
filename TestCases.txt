@@ -1,0 +1,11 @@
+Scenarios for Swag Labs login page
+
+1) Verify User should login successfully with valid user name and password
+
+2) Verify Error "Username and password do not match any user in this service" should display for invalid user name and password
+
+3) Verify Error "Username is required" should be displayed for empty user name and password
+
+4) Verify Error "Password is required" should display for empty password filed
+
+5) Verify Error "Username is required" should display for empty Username filed
